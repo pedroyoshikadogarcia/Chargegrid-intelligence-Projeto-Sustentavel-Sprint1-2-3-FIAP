@@ -177,3 +177,11 @@ ALERTA: CONTROLE ATIVO ACIONADO! EVITANDO MULTA POR ULTRAPASSAGEM DE DEMANDA.
 **Link da Simulação no TinkerCad**
 
 https://www.tinkercad.com/things/itsZgUB0G57-chargegrid-intelligence?sharecode=rEB-arvSr9X3oIVoZrVsbl6MePTDojcdYvYG1lKRfcA
+
+---
+
+**Conexão com os Conteúdos da Disciplina
+
+* **IoT e Edge Computing:** Programação embarcada em C++ no Arduino Uno manipulando entradas analógicas (potenciômetros) e saídas digitais/PWM sem o uso de rotinas bloqueantes (`millis`).
+* **Sustentabilidade e Gestão Energética:** Aplicação prática de *Peak Shaving* e BESS (Battery Energy Storage Systems) para alívio da malha elétrica urbana e redução da pegada de carbono.
+* **Automação de Processos:** Tomada de decisão autônoma em milissegundos substituindo a intervenção humana no controle de demanda de potência.
