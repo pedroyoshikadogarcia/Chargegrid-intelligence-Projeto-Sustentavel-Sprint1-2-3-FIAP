@@ -180,7 +180,7 @@ https://www.tinkercad.com/things/itsZgUB0G57-chargegrid-intelligence?sharecode=r
 
 ---
 
-**Conexão com os Conteúdos da Disciplina
+**Conexão com os Conteúdos da Disciplina**
 
 * **IoT e Edge Computing:** Programação embarcada em C++ no Arduino Uno manipulando entradas analógicas (potenciômetros) e saídas digitais/PWM sem o uso de rotinas bloqueantes (`millis`).
 * **Sustentabilidade e Gestão Energética:** Aplicação prática de *Peak Shaving* e BESS (Battery Energy Storage Systems) para alívio da malha elétrica urbana e redução da pegada de carbono.
